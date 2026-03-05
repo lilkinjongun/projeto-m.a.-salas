@@ -5,11 +5,6 @@ export default function Header() {
     <header className="sticky top-0 z-50 w-full border-b border-slate-200 bg-white/80 backdrop-blur-md">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
         <div className="flex items-center gap-3">
-          <img
-            alt="Logo M.A. Salas"
-            className="h-10 w-auto"
-            src="https://lh3.googleusercontent.com/aida-public/AB6AXuA-8m6A9pODEsChYawLxEwP66gDcCEPKd9adXIJQzpcD5wY4_hyn844MHUF3lnmSKkxFqAthmV5uNJ94mhfF2Y3ODYaYF-GbnsT2Yn3yqNanshmJjeLEL_0Z1zBE6Sur8D8iebgpb2V21fGtDHdxdDcI_k5HGdNN-4uRZm4ze9KvoNW6E9Aex6oDcLWC0RhNXFzpPLv3eT205iVuYZyCOlyDZJ_-PAwkNWkK1tEG9x2vL09CEWMxrjeXmo-ej4Ff78AaYk4GrOFRQ"
-          />
           <span className="text-xl font-bold tracking-tight text-slate-900">
             M.A. Salas
           </span>
